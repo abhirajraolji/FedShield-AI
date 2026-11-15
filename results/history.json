@@ -1,0 +1,52 @@
+[
+  {
+    "round": 1,
+    "accuracy": 48.760445682451255,
+    "clients": 4
+  },
+  {
+    "round": 2,
+    "accuracy": 57.28412256267409,
+    "clients": 4
+  },
+  {
+    "round": 3,
+    "accuracy": 64.93036211699165,
+    "clients": 4
+  },
+  {
+    "round": 4,
+    "accuracy": 66.96378830083566,
+    "clients": 4
+  },
+  {
+    "round": 5,
+    "accuracy": 67.0891364902507,
+    "clients": 4
+  },
+  {
+    "round": 6,
+    "accuracy": 70.12534818941504,
+    "clients": 4
+  },
+  {
+    "round": 7,
+    "accuracy": 66.8941504178273,
+    "clients": 4
+  },
+  {
+    "round": 8,
+    "accuracy": 70.50139275766017,
+    "clients": 4
+  },
+  {
+    "round": 9,
+    "accuracy": 71.81058495821728,
+    "clients": 4
+  },
+  {
+    "round": 10,
+    "accuracy": 73.03621169916434,
+    "clients": 4
+  }
+]

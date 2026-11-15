@@ -1,0 +1,59 @@
+[
+  {
+    "experiment": "Pooled No Privacy",
+    "accuracy": 76.54596100278552,
+    "noise_multiplier": null,
+    "max_grad_norm": 1.0,
+    "epsilon": null,
+    "delta": null,
+    "predictions_per_class": [
+      1389,
+      903,
+      333,
+      384,
+      1249,
+      384,
+      986,
+      451,
+      1101
+    ]
+  },
+  {
+    "experiment": "Pooled Opacus No Noise",
+    "accuracy": 69.13649025069638,
+    "noise_multiplier": 0.0,
+    "max_grad_norm": 1.0,
+    "epsilon": null,
+    "delta": null,
+    "predictions_per_class": [
+      1442,
+      990,
+      10,
+      694,
+      1186,
+      544,
+      279,
+      398,
+      1637
+    ]
+  },
+  {
+    "experiment": "Pooled DP Noise 0.8",
+    "accuracy": 53.95543175487465,
+    "noise_multiplier": 0.8,
+    "max_grad_norm": 1.0,
+    "epsilon": 2.1191874731460394,
+    "delta": 1e-05,
+    "predictions_per_class": [
+      1656,
+      1027,
+      10,
+      13,
+      620,
+      1345,
+      96,
+      33,
+      2380
+    ]
+  }
+]
